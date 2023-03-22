@@ -10,7 +10,7 @@ The digitalization of everyday lives means that customers expect services to be 
 
 The data provided for this competition has the same structure as the real data they have available to solve this problem.
 
-In the jupyter notebook file, Initial Diagnostics, exploring and Handling Sparse data , preparing it for a LightGBM model, XGBoost Model and CatBoost Model training and Hyper-Parameter Tuning in models and predicting the target value for the test set.
+In the jupyter notebook file, Initial Diagnostics, exploring and Handling Sparse data , preparing it for a LightGBM model, XGBoost Model and CatBoost Model training and Hyper-Parameter Tuning in models to classifying the data.
 
 ![image_share_1679516953099](https://user-images.githubusercontent.com/109660074/227033913-7d829c79-d46c-443b-9fd2-d11d3380d46d.jpg)
 
